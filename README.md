@@ -9,6 +9,6 @@
 
 ## پروژه ها
 
-- [کسب و کار اجاره دوچرخه](./bikes-borrowed.ipynb)
+- [پیشبینی دمای احساس شده توسط دوچرخه سواران](notebooks/bikes-borrowed.ipynb)
 
 </div>
