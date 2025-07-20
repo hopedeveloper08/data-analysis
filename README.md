@@ -12,11 +12,12 @@
 
 ## مینی پروژه ها
 
-##### مینی پروژه های زیر با هدف تمرین کتابخانه ها و کار کردن با قابلیت های آن ها انجام شده است.
+##### مینی پروژه های زیر با هدف تمرین کتابخانه های `Pandas` و `Matplotlib` و کار کردن با قابلیت های آن ها انجام شده است.
 
-- [تحلیل کسب و کار اجاره دوچرخه](notebooks/bikes-borrowed.ipynb)
-- [تحلیل بازدید وب سایت ها با داده های شرکت یکتانت](notebooks/yektanet.ipynb)
-- [تحلیل غذا های هندی ها](notebooks/hindustan.ipynb)
-- [تحلیل انشارات و نویسندگان کتاب ها با داده های goodreads](notebooks/book_readers.ipynb)
+- [تحلیل کسب و کار اجاره دوچرخه](mini-projects/bikes-borrowed.ipynb)
+- [تحلیل استراتژی سانتر در فیفا](mini-projects/fifa.ipynb)
+- [تحلیل بازدید وب سایت ها با داده های شرکت یکتانت](mini-projects/yektanet.ipynb)
+- [تحلیل غذا های هندی ها](mini-projects/hindustan.ipynb)
+- [تحلیل انشارات و نویسندگان کتاب ها با داده های goodreads](mini-projects/book_readers.ipynb)
 
 </div>
