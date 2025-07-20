@@ -9,8 +9,14 @@
 
 ## پروژه ها
 
-- [پیشبینی دمای احساس شده توسط دوچرخه سواران](notebooks/bikes-borrowed.ipynb)
-- [بررسی نسبت غذاهای تند در هندوستان](notebooks/hindustan.ipynb)
-- [بررسی میانگین امتیاز انتشارات کتاب ها و تعداد کتاب های نویسنده براساس تعداد صفحه](notebooks/book_readers.ipynb)
+
+## مینی پروژه ها
+
+##### مینی پروژه های زیر با هدف تمرین کتابخانه ها و کار کردن با قابلیت های آن ها انجام شده است.
+
+- [تحلیل کسب و کار اجاره دوچرخه](notebooks/bikes-borrowed.ipynb)
+- [تحلیل بازدید وب سایت ها با داده های شرکت یکتانت](notebooks/yektanet.ipynb)
+- [تحلیل غذا های هندی ها](notebooks/hindustan.ipynb)
+- [تحلیل انشارات و نویسندگان کتاب ها با داده های goodreads](notebooks/book_readers.ipynb)
 
 </div>
