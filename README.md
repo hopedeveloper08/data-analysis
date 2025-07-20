@@ -16,6 +16,7 @@
 
 - [تحلیل کسب و کار اجاره دوچرخه](mini-projects/bikes-borrowed.ipynb)
 - [تحلیل استراتژی سانتر در فیفا](mini-projects/fifa.ipynb)
+- [تحلیل عناصر و عیار از داده های شرکت یونیدرو](mini-projects/unidro.ipynb)
 - [تحلیل بازدید وب سایت ها با داده های شرکت یکتانت](mini-projects/yektanet.ipynb)
 - [تحلیل غذا های هندی ها](mini-projects/hindustan.ipynb)
 - [تحلیل انشارات و نویسندگان کتاب ها با داده های goodreads](mini-projects/book_readers.ipynb)
