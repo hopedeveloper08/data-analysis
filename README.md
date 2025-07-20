@@ -11,5 +11,6 @@
 
 - [پیشبینی دمای احساس شده توسط دوچرخه سواران](notebooks/bikes-borrowed.ipynb)
 - [بررسی نسبت غذاهای تند در هندوستان](notebooks/hindustan.ipynb)
+- [بررسی میانگین امتیاز انتشارات کتاب ها و تعداد کتاب های نویسنده براساس تعداد صفحه](notebooks/book_readers.ipynb)
 
 </div>
